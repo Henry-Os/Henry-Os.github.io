@@ -1,8 +1,5 @@
-<div align="center">
-
 # PORTFOLIO
 
-</div>
 
 ## [NASA DEVELOP Texas & Georgia Agriculture Spring 2025 Project](https://github.com/Henry-Os/Texas-GeorgiaAg-NASA-Develop-.git)
 **Abstract**
