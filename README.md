@@ -29,3 +29,9 @@ For my final project in Advanced Cartography course, I visualized the Glacier Na
 **Professor:** *Dr Yu Zhou*   
 **Affiliation:** *Bowling Green State University*  
 ![](images/glacier_web.jpg)
+
+
+## Upcoming and Current projects
+1. NASA DEVELOP Priest Lake Water Resources Summer 2025
+2. Land Cover classification Using Optical and SAR Data
+3. Crop classification Using Optical and SAR Data
