@@ -16,3 +16,8 @@ For my master’s thesis, I addressed data gaps in optical remote sensing caused
 **Supervisor:** [Dr Anita Simic Milas](https://www.bgsu.edu/arts-and-sciences/earth-environment-and-society/faculty-and-staff/anita-simic.html) 
 
 ![](images/actual_vs_predicted_NDVI_corn.png) ![](images/actual_vs_predicted_NDVI_soya.png)
+
+
+## [Glaciers at the Glacier National Park](https://github.com/Henry-Os/Maps.git)
+For my final project in Advanced Cartography course, I visualized the Glacier National Park and some of its prominent glaciers. Publicly available geospatial data such as DEM, road, lakes, glaciers, points of interest, etc. were sourced to author 2D and 3D static maps.
+![](images/glacier_web.jpg)
