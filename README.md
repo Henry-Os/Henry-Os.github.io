@@ -12,6 +12,7 @@ Image Credit: NASA DEVELOP
 
 ## [Estimating Optical Vegetation Indices Using SAR Data for Crop Monitoring](https://github.com/Henry-Os/Thesis_project.git)
 For my master’s thesis, I addressed data gaps in optical remote sensing caused by cloud interference by leveraging SAR data to estimate vegetation indices (NDVI and EVI), with a focus on model transferability. To ensure robustness, I utilized a dense time-series of satellite observations spanning four geographically diverse regions and multiple crop seasons (2015–2023), incorporating time/phenology-related metrics such as accumulated growing degree days (AGDD) and days-after-planting (DAP). Using Light Gradient Boosting Machine (LightGBM) as the base algorithm, model configurations that incorporated AGDD in addition to SAR variables consistently achieved the highest accuracy and stability in performance across all test scenarios, especially for NDVI, demonstrating strong generalizability across varying regions and crop conditions.
+**NB:** The technical paper is under preparation for a peer-reviewed publication and will be added to the repo once it has been completed.
 
 **Supervisor:** [Dr Anita Simic Milas](https://www.bgsu.edu/arts-and-sciences/earth-environment-and-society/faculty-and-staff/anita-simic.html) 
 
