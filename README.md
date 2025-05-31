@@ -33,5 +33,5 @@ For my final project in Advanced Cartography course, I visualized the Glacier Na
 
 ## Upcoming and Current projects
 1. NASA DEVELOP Priest Lake Water Resources Summer 2025
-2. Land Cover classification Using Optical and SAR Data
-3. Crop classification Using Optical and SAR Data
+2. 2021 Dixie Fire Burn Severity Mapping and Vegetation Recovery Monitoring
+3. Crop Classification Using Optical and SAR Data
