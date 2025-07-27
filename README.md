@@ -25,7 +25,7 @@ For my master’s thesis, I addressed data gaps in optical remote sensing caused
 
 
 ## [Glaciers at the Glacier National Park](https://github.com/Henry-Os/Maps.git)
-For my final project in Advanced Cartography course, I visualized the Glacier National Park and some of its prominent glaciers. Publicly available geospatial data such as DEM, road, lakes, glaciers, points of interest, etc. were sourced to author 2D and 3D static maps.  
+For my final project in Advanced Cartography course, I created a map of the Glacier National Park and some of its prominent glaciers. Publicly available geospatial data such as DEM, road, lakes, glaciers, points of interest, etc. were sourced to author 2D and 3D static maps.  
 
 **Professor:** *Dr Yu Zhou*   
 **Affiliation:** *Bowling Green State University*  
