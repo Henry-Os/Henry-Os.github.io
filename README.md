@@ -5,7 +5,7 @@ In this project, I mapped the burn severity and evaluated vegetation recovery an
 
 **Affiliation:** *Personal Project*
 
-![](BurnSeverity_map.jpg)
+![](images/dw_change_detection.gif)
 
 
 ## [NASA DEVELOP Texas & Georgia Agriculture Spring 2025 Project](https://github.com/Henry-Os/Texas-GeorgiaAg-NASA-Develop-.git)
