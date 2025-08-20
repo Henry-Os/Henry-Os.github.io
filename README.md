@@ -1,5 +1,3 @@
-# PORTFOLIO
-
 ## Explore Projects
 
 1. [Dixie Fire Burn Severity and Vegetation Recovery Mapping](#dixie-fire-burn-severity-and-vegetation-recovery-mapping)
