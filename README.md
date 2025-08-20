@@ -1,5 +1,15 @@
 # PORTFOLIO
 
+## Explore Projects
+
+1. [Dixie Fire Burn Severity and Vegetation Recovery Mapping](#dixie-fire-burn-severity-and-vegetation-recovery-mapping)
+2. [NASA DEVELOP Texas & Georgia Agriculture Spring 2025 Project](#nasa-develop-texas--georgia-agriculture-spring-2025-project)
+3. [Estimating Optical Vegetation Indices Using SAR Data for Crop Monitoring](#estimating-optical-vegetation-indices-using-sar-data-for-crop-monitoring)
+4. [Glaciers at the Glacier National Park](#glaciers-at-the-glacier-national-park)
+5. [Upcoming and Current Projects](#upcoming-and-current-projects)
+
+---
+
 ## [Dixie Fire Burn Severity And Vegetation Recovery Mapping](https://henry-os.github.io/DixieFire_Monitoring/)
 In this project, I mapped the burn severity and evaluated vegetation recovery and land cover changes following the 2021 Dixie Fire in Northern California. Data from the Harmonized Landsat Sentinel (HLS) iniative was used to generate indices such as the Normalized Burn Ratio (NBR), Normalized Difference Vegetation Index (NDVI), and Enhanced Vegetation Index (EVI) for burn severity and vegetation recovery analysis. Dynamic World Land Cover data was also to assess land cover transitions from 2020 to 2024. 
 
