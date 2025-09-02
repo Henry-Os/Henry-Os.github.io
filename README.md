@@ -35,7 +35,7 @@ For my master’s thesis, I addressed data gaps in optical remote sensing caused
 
 ## [Glaciers at the Glacier National Park](https://github.com/Henry-Os/Maps.git)
 For my final project in Advanced Cartography course, I created a map of the Glacier National Park and some of its prominent glaciers. Publicly available geospatial data such as DEM, road, lakes, glaciers, points of interest, etc. were sourced to author 2D and 3D static maps. The following are a few web maps from the course:  
-[1. Vehicle Charging Stations](https://bgsu.maps.arcgis.com/apps/dashboards/4474131d29aa4806916b92f895b3dd48)
+[1. Vehicle Charging Stations](https://bgsu.maps.arcgis.com/apps/dashboards/4474131d29aa4806916b92f895b3dd48)  
 [2. Population of Indonesia](https://bgsu.maps.arcgis.com/apps/instant/sidebar/index.html?appid=ccb1806317b6448abae807580e4b0df0)
   
 **Affiliation:** *Bowling Green State University*  
