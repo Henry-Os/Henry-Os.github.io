@@ -4,7 +4,7 @@
 2. [NASA DEVELOP Texas & Georgia Agriculture Spring 2025 Project](#nasa-develop-texas--georgia-agriculture-spring-2025-project)
 3. [Estimating Optical Vegetation Indices Using SAR Data for Crop Monitoring](#estimating-optical-vegetation-indices-using-sar-data-for-crop-monitoring)
 4. [Glaciers at the Glacier National Park](#glaciers-at-the-glacier-national-park)
-5. [Upcoming and Current Projects](#upcoming-and-current-projects)
+
 
 ---
 
