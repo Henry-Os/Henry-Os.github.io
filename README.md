@@ -1,16 +1,22 @@
 ## Explore Projects
 
-1. [Dixie Fire Burn Severity and Vegetation Recovery Mapping](#dixie-fire-burn-severity-and-vegetation-recovery-mapping)
-2. [NASA DEVELOP Priest Lake Water Resources Summer 2025 Project](#nasa-develop-priest-lake-water-resources-summer-2025-project)
-3. [NASA DEVELOP Texas & Georgia Agriculture Spring 2025 Project](#nasa-develop-texas--georgia-agriculture-spring-2025-project)
-4. [Estimating Optical Vegetation Indices Using SAR Data for Crop Monitoring](#estimating-optical-vegetation-indices-using-sar-data-for-crop-monitoring)
-5. [Glaciers at the Glacier National Park](#glaciers-at-the-glacier-national-park)
+1. [LULC Classification of Noord Brabant, Netherlands](#LULC-classification-of-noord-brabant-,-Netherlands)
+2. [Dixie Fire Burn Severity and Vegetation Recovery Mapping](#dixie-fire-burn-severity-and-vegetation-recovery-mapping)
+3. [NASA DEVELOP Priest Lake Water Resources Summer 2025 Project](#nasa-develop-priest-lake-water-resources-summer-2025-project)
+4. [NASA DEVELOP Texas & Georgia Agriculture Spring 2025 Project](#nasa-develop-texas--georgia-agriculture-spring-2025-project)
+5. [Estimating Optical Vegetation Indices Using SAR Data for Crop Monitoring](#estimating-optical-vegetation-indices-using-sar-data-for-crop-monitoring)
+6. [Glaciers at the Glacier National Park](#glaciers-at-the-glacier-national-park)
 
 
 ---
+## [LULC Classification of Noord Brabant, Netherlands](https://github.com/Henry-Os/LULC-Noord-Brabant)
+This project seeks to implement a hierarchical deep learning workflow to map Land Use and Land Cover (LULC) across the Noord-Brabant province in Netherlands. Utilizing Vision Transformers (ViT) on EuroSAT and Sentinel-2 imagery, the system first categorizes the landscape into 10 broad classes. Phase 2 is currently in development, extending the workflow to produce detailed cropland maps using the Prithvi foundation model.
+
+![](images/Brabant_LULCmap.tif)
+
 
 ## [Dixie Fire Burn Severity And Vegetation Recovery Mapping](https://henry-os.github.io/DixieFire_Monitoring/)
-In this project, I mapped the burn severity and evaluated vegetation recovery and land cover changes following the 2021 Dixie Fire in Northern California. Data from the Harmonized Landsat Sentinel (HLS) iniative was used to generate indices such as the Normalized Burn Ratio (NBR), Normalized Difference Vegetation Index (NDVI), and Enhanced Vegetation Index (EVI) for burn severity and vegetation recovery analysis. Dynamic World Land Cover data was also to assess land cover transitions from 2020 to 2024. 
+In this project, I mapped the burn severity and evaluated vegetation recovery and land cover changes following the 2021 Dixie Fire in Northern California. I used data from the Harmonized Landsat Sentinel (HLS) iniative to generate indices such as the Normalized Burn Ratio (NBR), Normalized Difference Vegetation Index (NDVI), and Enhanced Vegetation Index (EVI) for burn severity and vegetation recovery analysis. Dynamic World Land Cover data was also to assess land cover transitions from 2020 to 2024. 
 
 **Affiliation:** *Personal Project*
 
