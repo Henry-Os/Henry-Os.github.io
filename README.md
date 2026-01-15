@@ -1,6 +1,6 @@
 ## Explore Projects
 
-1. [LULC Classification of Noord Brabant, Netherlands](#LULC-classification-of-noord-brabant-,-Netherlands)
+1. [LULC Classification of Noord Brabant, Netherlands](#LULC-classification-of-noord-brabant-Netherlands)
 2. [Dixie Fire Burn Severity and Vegetation Recovery Mapping](#dixie-fire-burn-severity-and-vegetation-recovery-mapping)
 3. [NASA DEVELOP Priest Lake Water Resources Summer 2025 Project](#nasa-develop-priest-lake-water-resources-summer-2025-project)
 4. [NASA DEVELOP Texas & Georgia Agriculture Spring 2025 Project](#nasa-develop-texas--georgia-agriculture-spring-2025-project)
@@ -9,7 +9,7 @@
 
 
 ---
-## [LULC Classification of Noord Brabant, Netherlands](https://github.com/Henry-Os/LULC-Noord-Brabant)
+## [LULC Classification of Noord Brabant Netherlands](https://github.com/Henry-Os/LULC-Noord-Brabant)
 This project implements a hierarchical deep learning workflow to map Land Use and Land Cover (LULC) across the Noord-Brabant province in Netherlands. Utilizing Vision Transformers (ViT) on EuroSAT and Sentinel-2 imagery, the system first categorizes the landscape into 10 broad classes. Phase 2 is currently in development, extending the workflow to produce detailed cropland maps using the Prithvi foundation model.
 
 ![](images/Brabant_LULCmap.jpg)
