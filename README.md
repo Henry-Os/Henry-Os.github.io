@@ -10,7 +10,7 @@
 
 ---
 ## [LULC Classification of Noord Brabant Netherlands](https://github.com/Henry-Os/LULC-Noord-Brabant)
-This project implements a hierarchical deep learning workflow to map Land Use and Land Cover (LULC) across the Noord-Brabant province in Netherlands. Utilizing Vision Transformers (ViT) on EuroSAT and Sentinel-2 imagery, the system first categorizes the landscape into 10 broad classes. Phase 2 is currently in development, extending the workflow to produce detailed cropland maps using the Prithvi foundation model.
+This project implements a hierarchical deep learning workflow to map Land Use and Land Cover (LULC) across the Noord-Brabant province in Netherlands. Utilizing Vision Transformers (ViT) on EuroSAT and Sentinel-2 imagery, the system first categorizes the landscape into 10 broad classes. Phase 2 is currently in development, extending the workflow to produce detailed cropland maps.
 
 ![](images/Brabant_LULCmap.jpg)
 
